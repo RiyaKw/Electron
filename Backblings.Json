@@ -857,24 +857,18 @@
             ]
         },
         {
-            "name": "Blackout_Bag_to_Rainbow_Clover",
-            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_229_LuckyRiderMale/smallicon.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_695_StreetFashionEclipse/smallicon.png",
+            "name": "Fabled_Cape_to_Venturion_Cape",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_069_DecoMale/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_123_FortniteDJ/smallicon.png",
             "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_FortniteDJ",
                     "swaps": [
                         {
-                            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
-                            "replace": "/Game/Accessories/FORT_Backpacks/M_MED_Lucky_Rider_Backpack/Meshes/M_MED_Lucky_Rider_Backpack.M_MED_Lucky_Rider_Backpack",
+                            "search": "/Game/Accessories/FORT_Capes/M_MED_Fortnite_DJ/Meshes/F_MED_Fortnite_DJ_Backpack.F_MED_Fortnite_DJ_Backpack",
+                            "replace": "/Game/Accessories/FORT_Capes/M_MED_Deco_Cape/Meshes/M_MED_Commando_Deco_Cape.M_MED_Commando_Deco_Cape",
                             "Researcher": "string",
                             "log": "Mesh"
-                        },
-                        {
-                            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
-                            "replace": "/Game/111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Material"
                         },
                         {
                             "search": "AdditionalData",
@@ -901,5 +895,6 @@
                 }
             ]
         }
+        
     ]
 }
