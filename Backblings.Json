@@ -872,7 +872,7 @@
                         },
                         {
                             "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
-                            "replace": "/Game/",
+                            "replace": "/Game/111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
                             "Researcher": "string",
                             "log": "Material"
                         },
