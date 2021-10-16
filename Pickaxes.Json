@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "name": "Snowy_to_Bootstraps",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_142_TeriyakiFish/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_334_SweaterWeatherMale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_SweaterWeatherMale",
+                    "swaps": [
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/Meshes/Sweater_Weather_Male_Axe.Sweater_Weather_Male_Axe",
+                            "replace": "/Game/Weapons/FORT_Melee/Pickaxe_TeriyakiFish/Meshes/Pickaxe_TeriyakiFish.Pickaxe_TeriyakiFish",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ColumnName",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "SoftObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "&Default__FortWeaponMeleeItemDefinition",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "bItemHasDurability",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
