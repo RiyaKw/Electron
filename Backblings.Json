@@ -1,0 +1,821 @@
+{
+    "items": [
+        {
+            "name": "RavenWinter_BackBack_to_TwitchBackbling",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/bid_029_retrogrey/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_166_RavenWinterMale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RavenWinterMale",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/Mesh/SK_Backpack_RavenQuill.SK_Backpack_RavenQuill",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Mesh/Male_Commando_02.Male_Commando_02",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/M_Commandor_Raven_Winter_Backpack/Materials/MI_Backpack_Raven_Winter.MI_Backpack_Raven_Winter",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_02_StealthRaptor.Male_Commando_02_StealthRaptor",
+                            "Researcher": "string",
+                            "log": "FX"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rearguard_to_Scaly",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_031_Dinosaur/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_071_VikingFemale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_VikingFemale",
+                    "swaps": [
+                        {
+                            "search": "FORT_Backpacks/M_MED_Viking_Backpack/Meshes/SK_Backpack_Male_Viking.SK_Backpack_Male_Viking",
+                            "replace": "FORT_Backpacks/Mesh/SK_Backpack_Male_Commando_11.SK_Backpack_Male_Commando_11",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Arroyo_Pack_to_Six_String",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_034_RockerPunk/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_472_DesertOpsCamo/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_DesertOpsCamo",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Desert_Ops_Camo/Meshes/F_MED_Desert_Ops_Camo.F_MED_Desert_Ops_Camo",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Mesh/Female_Commando_Guitar.Female_Commando_Guitar",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mutiny_to_Spectral_Spine",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_270_StreetDemon/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_216_PirateProgressive/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_PirateProgressive",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Pirate_Progressive/Meshes/Backpack_Pirate_Progressive.Backpack_Pirate_Progressive",
+                            "replace": "/Game/Accessories/FORT_Backpacks/M_MED_StreetDemon_Backpack/Meshes/M_MED_Street_Demon_Pack.M_MED_Street_Demon_Pack",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Frozen_Red_Shield_to_Black_Shield",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_004_BlackKnight/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_167_RedKnightWinterFemale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RedKnightWinterFemale",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/Materials/Female_Commando_RedKnight_Winter.Female_Commando_RedKnight_Winter",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_BR_BlackknightV00.Male_Commando_BR_BlackknightV00",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fabled_Cape_to_Battle_Shroud",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_058_DarkEagle/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_121_RedRiding/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RedRiding",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Capes/F_MED_RedRiding_Cape/Meshes/F_MED_RedRiding_Cape.F_MED_RedRiding_Cape",
+                            "replace": "/Game/Accessories/FORT_Capes/M_MED_DarkEagle_Cape/Meshes/M_MED_DarkEagle_Cape.M_MED_DarkEagle_Cape",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pool_Party_to_Cuddle_Bow",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_023_Pinkbear/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_074_LifeguardFemale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_LifeguardFemale",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/M_MED_SummerHeroes_Unicorn/Meshes/Backpack_Summer_Heroes_Unicorn_Export.Backpack_Summer_Heroes_Unicorn_Export",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_F_BackPack_BR039.SK_F_BackPack_BR039_BackPack_BR039",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Waveform_to_Dismal_Cape",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_127_PlagueMale/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_123_FortniteDJ/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_FortniteDJ",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Capes/M_MED_Fortnite_DJ/Meshes/F_MED_Fortnite_DJ_Backpack.F_MED_Fortnite_DJ_Backpack",
+                            "replace": "/Game/Accessories/FORT_Capes/M_MED_Plague_Cape/Meshes/M_MED_Plague_Cape_Export.M_MED_Plague_Cape_Export",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Waveform_to_Glimmering_Cloak",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_180_IceMaiden/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_123_FortniteDJ/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_FortniteDJ",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Capes/M_MED_Fortnite_DJ/Meshes/F_MED_Fortnite_DJ_Backpack.F_MED_Fortnite_DJ_Backpack",
+                            "replace": "/Game/Accessories/FORT_Capes/F_MED_Ice_Maiden_Cape/Meshes/F_MED_Ice_Maiden_Cape.F_MED_Ice_Maiden_Cape",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mutiny_to_Shark_Fin",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_076_Shark/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_216_PirateProgressive/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_PirateProgressive",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Pirate_Progressive/Meshes/Backpack_Pirate_Progressive.Backpack_Pirate_Progressive",
+                            "replace": "/Game/Accessories/FORT_Backpacks/M_MED_Shark_Backpack/Meshes/M_MED_Shark_Backpack.M_MED_Shark_Backpack",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Night_Cloak_to_Coven_Cape",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_130_VampireMale02/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_122_HalloweenTomato/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_HalloweenTomato",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Capes/F_MED_Halloween_Tomato_Cape/Meshes/F_MED_Halloween_Tomato_Cape.F_MED_Halloween_Tomato_Cape",
+                            "replace": "/Game/Accessories/FORT_Capes/M_MED_Vampire_Cape/Meshes/M_MED_Vampire_Cape.M_MED_Vampire_Cape",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Arroyo_Pack_to_Shrimpy",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_151_SushiChefFemale/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_472_DesertOpsCamo/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_DesertOpsCamo",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Desert_Ops_Camo/Meshes/F_MED_Desert_Ops_Camo.F_MED_Desert_Ops_Camo",
+                            "replace": "/Game/Accessories/FORT_Backpacks/F_MED_SushiChef_Backpack/Meshes/Sushi_Chef_Backpack.Sushi_Chef_Backpack",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fishstick_Janky_Options",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_778_Antique/smallicon.png",
+            "Options": [
+                {
+                    "name": "Trail_Tote_to_Fishstick_Janky",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/BID_161_SnowBoardFemale/smallicon.png",
+                    "assets": [
+                        {
+                            "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_SnowBoardFemale",
+                            "swaps": [
+                                {
+                                    "search": "/Game/Accessories/FORT_Backpacks/F_MED_Snowboard_Backpack/Meshes/F_MED_Snow_Board_Backpack.F_MED_Snow_Board_Backpack",
+                                    "replace": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Antique/Meshes/M_MED_Antique_Pack.M_MED_Antique_Pack",
+                                    "Researcher": "string",
+                                    "log": "Mesh"
+                                },
+                                {
+                                    "search": "AdditionalData",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ByteProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "Default__CustomCharacterPart",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "GenderPermitted",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ObjectProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Arroyo_Pack_to_Fishstick_Janky",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/BID_472_DesertOpsCamo/smallicon.png",
+                    "assets": [
+                        {
+                            "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_DesertOpsCamo",
+                            "swaps": [
+                                {
+                                    "search": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Desert_Ops_Camo/Meshes/F_MED_Desert_Ops_Camo.F_MED_Desert_Ops_Camo",
+                                    "replace": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Antique/Meshes/M_MED_Antique_Pack.M_MED_Antique_Pack",
+                                    "Researcher": "string",
+                                    "log": "Mesh"
+                                },
+                                {
+                                    "search": "AdditionalData",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ByteProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "Default__CustomCharacterPart",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "GenderPermitted",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ObjectProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mutiny_to_Fishstick_Janky",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/BID_216_PirateProgressive/smallicon.png",
+                    "assets": [
+                        {
+                            "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_PirateProgressive",
+                            "swaps": [
+                                {
+                                    "search": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Pirate_Progressive/Meshes/Backpack_Pirate_Progressive.Backpack_Pirate_Progressive",
+                                    "replace": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Antique/Meshes/M_MED_Antique_Pack.M_MED_Antique_Pack",
+                                    "Researcher": "string",
+                                    "log": "Mesh"
+                                },
+                                {
+                                    "search": "AdditionalData",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ByteProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "Default__CustomCharacterPart",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "GenderPermitted",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ObjectProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Overbite_Options",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_556_SharkSuit/smallicon.png",
+            "Options": [
+                {
+                    "name": "Trail_Tote_to_Overbite",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/BID_161_SnowBoardFemale/smallicon.png",
+                    "assets": [
+                        {
+                            "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_SnowBoardFemale",
+                            "swaps": [
+                                {
+                                    "search": "/Game/Accessories/FORT_Backpacks/F_MED_Snowboard_Backpack/Meshes/F_MED_Snow_Board_Backpack.F_MED_Snow_Board_Backpack",
+                                    "replace": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Shark_Suit/Meshes/M_MED_Shark_Suit.M_MED_Shark_Suit",
+                                    "Researcher": "string",
+                                    "log": "Mesh"
+                                },
+                                {
+                                    "search": "AdditionalData",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ByteProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "Default__CustomCharacterPart",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "GenderPermitted",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ObjectProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Arroyo_Pack_to_Overbite",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/BID_472_DesertOpsCamo/smallicon.png",
+                    "assets": [
+                        {
+                            "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_DesertOpsCamo",
+                            "swaps": [
+                                {
+                                    "search": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Desert_Ops_Camo/Meshes/F_MED_Desert_Ops_Camo.F_MED_Desert_Ops_Camo",
+                                    "replace": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Shark_Suit/Meshes/M_MED_Shark_Suit.M_MED_Shark_Suit",
+                                    "Researcher": "string",
+                                    "log": "Mesh"
+                                },
+                                {
+                                    "search": "AdditionalData",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ByteProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "Default__CustomCharacterPart",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "GenderPermitted",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ObjectProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mutiny_to_Overbite",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/BID_216_PirateProgressive/smallicon.png",
+                    "assets": [
+                        {
+                            "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_PirateProgressive",
+                            "swaps": [
+                                {
+                                    "search": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Pirate_Progressive/Meshes/Backpack_Pirate_Progressive.Backpack_Pirate_Progressive",
+                                    "replace": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Shark_Suit/Meshes/M_MED_Shark_Suit.M_MED_Shark_Suit",
+                                    "Researcher": "string",
+                                    "log": "Mesh"
+                                },
+                                {
+                                    "search": "AdditionalData",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ByteProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "Default__CustomCharacterPart",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "GenderPermitted",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                },
+                                {
+                                    "search": "ObjectProperty",
+                                    "replace": "",
+                                    "Researcher": "string"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Arroyo_Pack_to_Shadow_Wings",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_191_WinterGhoulMale/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_472_DesertOpsCamo/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_DesertOpsCamo",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Desert_Ops_Camo/Meshes/F_MED_Desert_Ops_Camo.F_MED_Desert_Ops_Camo",
+                            "replace": "/Game/Accessories/FORT_Backpacks/M_MED_Winter_Ghoul_Backback/Mesh/M_MED_Winter_Ghoul.M_MED_Winter_Ghoul",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Arroyo_Pack_to_Shattered_Wing",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_256_ShatterFly/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_084_Birthday2018/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_Birthday2018",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/M_MED_BirthdayCake_Backpack/Meshes/Backpack_BirthdayCake.Backpack_BirthdayCake",
+                            "replace": "/Game/Accessories/FORT_Backpacks/F_MED_ShatterFly_Backpack/Meshes/F_MED_Shatter_Fly_Pack.F_MED_Shatter_Fly_Pack",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
