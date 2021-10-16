@@ -830,27 +830,8 @@
                             "replace": "/Game/Accessories/FORT_Backpacks/M_MED_Celestial_Backpack/P_Celestial_MilkyWay.P_Celestial_MilkyWay",
                             "Researcher": "string",
                             "log": "Mesh"
-                        },
-                        {
-                            "search": "AdditionalData",
-                            "replace": "",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "ByteProperty",
-                            "replace": "",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "Default__CustomCharacterPart",
-                            "replace": "",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "GenderPermitted",
-                            "replace": "",
-                            "Researcher": "string"
                         }
+                        
                     ]
                 }
             ]
