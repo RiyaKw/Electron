@@ -8867,11 +8867,11 @@
 			]
 		},
 		{
-			"name": "Graven_Options",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_217_Athena_Commando_M_CritterRaven/smallicon.png",
+			"name": "Jett_Options",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_220_Athena_Commando_F_PinkEmo/smallicon.png",
 			"Options": [
 				{
-					"name": "Shadow Ruby_to_Graven",
+					"name": "Ruby_Shadows_to_Jett",
 					"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/smallicon.png",
 					"assets": [
 						{
@@ -8879,13 +8879,13 @@
 							"swaps": [
 								{
 									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red.F_MED_Street_Fashion_Red",
-									"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Critter_Raven/Meshes/M_MED_Critter_Raven.M_MED_Critter_Raven",
+									"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Pink_Emo/Meshes/F_MED_Pink_Emo.F_MED_Pink_Emo",
 									"Researcher": "string",
 									"log": "Body 1/4"
 								},
 								{
 									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP.F_MED_Street_Fashion_Red_AnimBP_C",
-									"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Critter_Raven/Meshes/M_MED_Critter_Raven_AnimBP.M_MED_Critter_Raven_AnimBP_C",
+									"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Pink_Emo/Meshes/F_MED_Pink_Emo_AnimBP.F_MED_Pink_Emo_AnimBP_C",
 									"Researcher": "string",
 									"log": "Body 2/3"
 								},
@@ -8902,26 +8902,44 @@
 							"swaps": [
 								{
 									"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
-									"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Critter_Raven/Meshes/Parts/M_MED_Critter_Raven_FaceAcc.M_MED_Critter_Raven_FaceAcc",
+									"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Hitman_Head/Meshes/F_MED_Hitman_Head.F_MED_Hitman_Head",
 									"Researcher": "string",
 									"log": "Head"
 								},
 								{
-									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Hair.MI_F_MED_Renegade_Raider_Fire_Hair",
-									"replace": "",
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Head.F_MED_StreetFashionEclipse_Head",
+									"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Pink_Emo/Materials/F_MED_PinkEmo_Head.F_MED_PinkEmo_Head",
 									"Researcher": "string",
 									"log": "Hair"
+								},
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_AnimBP_Child.F_MED_Angel_Head_AnimBP_Child_C",
+									"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Hitman_Head/Meshes/F_MED_Hitman_Head_AnimBP_Child.F_MED_Hitman_Head_AnimBP_Child_C",
+									"Researcher": "string",
+									"log": "AnimBP"
 								}
 							]
 						},
 						{
-							"parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire",
+							"parentasset": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse",
 							"swaps": [
 								{
-									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
-									"replace": "",
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc.F_MED_Street_Fashion_Red_FaceAcc",
+									"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Pink_Emo/Meshes/Parts/F_MED_Pink_Emo_FaceAcc.F_MED_Pink_Emo_FaceAcc",
 									"Researcher": "string",
 									"log": "Hat Material"
+								},
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc_AnimBp.F_MED_Street_Fashion_Red_FaceAcc_AnimBp_C",
+									"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Pink_Emo/Meshes/Parts/F_MED_Pink_Emo_FaceAcc_AnimBP.F_MED_Pink_Emo_FaceAcc_AnimBP_C",
+									"Researcher": "string",
+									"log": "Hat AnimBP"
+								},
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair.F_MED_StreetFashionEclipse_Hair",
+									"replace": "/Game/Characters/11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+									"Researcher": "string",
+									"log": "Hair Material"
 								},
 								{
 									"search": "Default__CustomCharacterPart",
