@@ -939,6 +939,96 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Blackout_Bag_to_Skully_Satchel",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_211_SkullBrite/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_695_StreetFashionEclipse/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+                            "replace": "/Game/Accessories/FORT_Backpacks/F_MED_Skull_Brite_Backpack/Meshes/F_MED_Skull_Brite_Backpack.F_MED_Skull_Brite_Backpack",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
+                            "replace": "/Game/111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+                            "Researcher": "string",
+                            "log": "Material"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                        
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Blackout_Bag_to_Brite_Mint",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_811_BrightBomberMint/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_695_StreetFashionEclipse/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+                            "replace": "/Game/Accessories/FORT_Backpacks/F_MED_Bright_Bomber_Mint/Meshes/F_MED_Bright_Bomber_Mint_Pack.F_MED_Bright_Bomber_Mint_Pack",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Bright_Bomber_Mint/FX/NS_Backpack_Bright_Bomber_Mint_Female_Charm",
+                            "Researcher": "string",
+                            "log": "Material"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                        
+                    ]
+                }
+            ]
         }
         
     ]
