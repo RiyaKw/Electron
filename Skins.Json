@@ -1716,6 +1716,24 @@
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/M_MED_HIS_Sparks_Head_01_ATH.M_MED_HIS_Sparks_Head_01_ATH"
 		},
 		{
+			"name": "cp_Renegade",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_008_Athena_Commando_M_Default/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_008_Athena_Body.CP_008_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/M_MED_ASN_Jae_Head_01_ATH.M_MED_ASN_Jae_Head_01_ATH"
+		},
+		{
+			"name": "cp_Tracker",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_009_Athena_Commando_M/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_009_Athena_Body.CP_009_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/M_MED_HIS_Sparks_Head_01_ATH.M_MED_HIS_Sparks_Head_01_ATH"
+		},
+		{
+			"name": "cp_Ranger",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_010_Athena_Commando_M/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_010_Athena_Body.CP_010_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/M_Med_Soldier_Head_01_ATH.M_Med_Soldier_Head_01_ATH"
+		},
+		{
 			"name": "Slingshot_to_Rainbow_Racer",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_552_Athena_Commando_F_TaxiUpgrade/smallicon.png",
