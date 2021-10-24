@@ -1746,36 +1746,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_COM_Taxi_Upgraded/Skins/Multi/F_MED_Taxi_Multi_Body.F_MED_Taxi_Multi_Body",
 							"Researcher": "string",
 							"log": "Body Mesh"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "",
-							"Researcher": "string"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "",
-							"Researcher": "string"
-						},
-						{
-							"search": "CharacterPartType",
-							"replace": "",
-							"Researcher": "string"
-						},
-						{
-							"search": "$Default__CustomCharacterBodyPartData",
-							"replace": "",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "",
-							"Researcher": "string"
 						}
 					]
 				},
@@ -1787,36 +1757,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_COM_Taxi_Upgraded/Skins/Multi/F_MED_Taxi_Multi_Head.F_MED_Taxi_Multi_Head",
 							"Researcher": "string",
 							"log": "Head"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "",
-							"Researcher": "string"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "",
-							"Researcher": "string"
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterHeadData",
-							"replace": "",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "",
-							"Researcher": "string"
 						}
 					]
 				}
