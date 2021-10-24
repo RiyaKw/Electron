@@ -1896,26 +1896,6 @@
 									"replace": "/Game/Characters/11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
 									"Researcher": "string",
 									"log": "Hair Material"
-								},
-								{
-									"search": "Default__CustomCharacterPart",
-									"replace": "1111111111111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "CustomCharacterHatData",
-									"replace": "1111111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "Default__CustomCharacterHatData",
-									"replace": "1111111111111111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "ObjectProperty",
-									"replace": "11111111111111",
-									"Researcher": "string"
 								}
 							]
 						}
