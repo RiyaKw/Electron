@@ -10,7 +10,7 @@
                     "swaps": [
                         {
                             "search": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Pump_Shotgun_Mark_II_Base.SK_Pump_Shotgun_Mark_II_Base",
-                            "replace": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Pump_Shotgun_Mark_I_Base.SK_Pump_Shotgun_Mark_I_Base",
+                            "replace": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Crusader.SK_Crusader",
                             "Researcher": "string",
                             "log": "Mesh"
                         }
