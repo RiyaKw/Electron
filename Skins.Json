@@ -363,7 +363,7 @@
 					"swaps": [
 						{
 							"search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
-							"replace": "/Game/Characters/",
+							"replace": "/Game/111111111111111111111111111111111111111111111111111111111111",
 							"Researcher": "string",
 							"log": "Color"
 						},
@@ -386,70 +386,13 @@
 					"swaps": [
 						{
 							"search": "/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasses",
-							"replace": "/Game/Accessories/",
+							"replace": "/Game/1111111111111111111111111111111111111111111111111111111111111111111111111",
 							"Researcher": "string",
 							"log": "Glasses Mat"
 						},
 						{
 							"search": "/Game/Accessories/Glasses/Meshes/Female_Commando_Shades.Female_Commando_Shades",
 							"replace": "/Game/Accessories/Hats/Mesh/Ramirez_Glasses.Ramirez_Glasses",
-							"Researcher": "string"
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Nitelite_to_Blue_Team_Leader",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_052_Athena_Commando_F_PSBlue/smallicon.png",
-			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
-			"assets": [
-				{
-					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_124_Body_F_AuroraGlow",
-					"swaps": [
-						{
-							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/M_F_Med_Soldier_01_AuroraGlow.M_F_Med_Soldier_01_AuroraGlow",
-							"replace": "",
-							"Researcher": "string",
-							"log": "Body"
-						}
-					]
-				},
-				{
-					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow",
-					"swaps": [
-						{
-							"search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
-							"replace": "/Game/Characters/",
-							"Researcher": "string",
-							"log": "Color"
-						},
-						{
-							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Hair_01_AuroraGlow.F_MED_Commando_Hair_01_AuroraGlow",
-							"replace": "",
-							"Researcher": "string",
-							"log": "Hair"
-						},
-						{
-							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Head_01_AuroraGlow.F_MED_Commando_Head_01_AuroraGlow",
-							"replace": "",
-							"Researcher": "string",
-							"log": "Head"
-						}
-					]
-				},
-				{
-					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_AuroraGlow",
-					"swaps": [
-						{
-							"search": "/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasses",
-							"replace": "/Game/Accessories/",
-							"Researcher": "string",
-							"log": "Glasses Mat"
-						},
-						{
-							"search": "/Game/Accessories/Glasses/Meshes/Female_Commando_Shades.Female_Commando_Shades",
-							"replace": "",
 							"Researcher": "string"
 						}
 					]
@@ -557,42 +500,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Musician/Meshes/F_MED_Musician_AnimBP.F_MED_Musician_AnimBP_C",
 							"Researcher": "string",
 							"log": "Body AnimBP"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string",
-							"log": "Body CP"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
-							"Researcher": "string",
-							"log": "Body CP"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string",
-							"log": "Body CP"
-						},
-						{
-							"search": "CharacterPartType",
-							"replace": "11111111111111111",
-							"Researcher": "string",
-							"log": "Body CP"
-						},
-						{
-							"search": "$Default__CustomCharacterBodyPartData",
-							"replace": "1111111111111111111111111111111111111",
-							"Researcher": "string",
-							"log": "Body CP"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string",
-							"log": "Body CP"
 						}
 					]
 				},
@@ -610,36 +517,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Musician_Head/Meshes/Female_Medium_Musician_Head_AnimBP.Female_Medium_Musician_Head_AnimBP_C",
 							"Researcher": "string",
 							"log": "Head AnimBP"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterHeadData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				},
@@ -657,36 +534,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Musician/Meshes/Parts/F_MED_Musician_FaceAcc_AnimBP.F_MED_Musician_FaceAcc_AnimBP_C",
 							"Researcher": "string",
 							"log": "FaceAcc AnimBP"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BoolProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterFaceData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				}
@@ -711,36 +558,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buff_Cat_Fan/Meshes/F_MED_Buff_Cat_Fan_AnimBP.F_MED_Buff_Cat_Fan_AnimBP_C",
 							"Researcher": "string",
 							"log": "Body AnimBP"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "CharacterPartType",
-							"replace": "11111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "$Default__CustomCharacterBodyPartData",
-							"replace": "1111111111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				},
@@ -758,36 +575,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Photographer_Head/Mesh/Fortnite_Base_Head_Export_Skeleton_AnimBP_Child.Fortnite_Base_Head_Export_Skeleton_AnimBP_Child_C",
 							"Researcher": "string",
 							"log": "Head AnimBP"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterHeadData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				},
@@ -805,36 +592,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buff_Cat_Fan/Meshes/Parts/F_MED_Buff_Cat_Fan_FaceAcc_AnimBP.F_MED_Buff_Cat_Fan_FaceAcc_AnimBP_C",
 							"Researcher": "string",
 							"log": "FaceAcc AnimBP"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BoolProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterFaceData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				}
@@ -859,36 +616,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Alchemy/Meshes/F_MED_Alchemy_AnimBP.F_MED_Alchemy_AnimBP_C",
 							"Researcher": "string",
 							"log": "Body AnimBP"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "CharacterPartType",
-							"replace": "11111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "$Default__CustomCharacterBodyPartData",
-							"replace": "1111111111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				},
@@ -906,36 +633,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Alchemy_Head_01/Meshes/Female_Medium_Alchemy_Head_AnimBP.Female_Medium_Alchemy_Head_AnimBP_C",
 							"Researcher": "string",
 							"log": "Head AnimBP"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterHeadData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				},
@@ -953,36 +650,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Alchemy/Meshes/Parts/F_MED_Alchemy_AnimBP.F_MED_Alchemy_AnimBP_C",
 							"Researcher": "string",
 							"log": "FaceAcc AnimBP"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BoolProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterFaceData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				}
@@ -1016,41 +683,6 @@
 									"replace": "/Game/Juicy/Juicy.Juicy",
 									"Researcher": "string",
 									"log": "Body"
-								}
-							]
-						},
-						{
-							"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
-							"swaps": [
-								{
-									"search": "AdditionalData",
-									"replace": "11111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "BodyTypesPermitted",
-									"replace": "111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "ByteProperty",
-									"replace": "111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "GenderPermitted",
-									"replace": "111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "Default__CustomCharacterHeadData",
-									"replace": "11111111111111111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "Default__CustomCharacterPart",
-									"replace": "1111111111111111111111111111",
-									"Researcher": "string"
 								}
 							]
 						},
@@ -1098,36 +730,6 @@
 									"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet/Meshes/F_MED_Buffet_AnimBP.F_MED_Buffet_AnimBP_C",
 									"Researcher": "string",
 									"log": "Body AnimBP"
-								},
-								{
-									"search": "AdditionalData",
-									"replace": "11111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "BodyTypesPermitted",
-									"replace": "111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "ByteProperty",
-									"replace": "111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "CharacterPartType",
-									"replace": "11111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "$Default__CustomCharacterBodyPartData",
-									"replace": "1111111111111111111111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "Default__CustomCharacterPart",
-									"replace": "1111111111111111111111111111",
-									"Researcher": "string"
 								}
 							]
 						},
@@ -1145,36 +747,6 @@
 									"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Buffet_Head/Meshes/Female_Medium_Buffet_Head_AnimBP.Female_Medium_Buffet_Head_AnimBP_C",
 									"Researcher": "string",
 									"log": "Head AnimBP"
-								},
-								{
-									"search": "AdditionalData",
-									"replace": "11111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "BodyTypesPermitted",
-									"replace": "111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "ByteProperty",
-									"replace": "111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "GenderPermitted",
-									"replace": "111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "Default__CustomCharacterHeadData",
-									"replace": "11111111111111111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "Default__CustomCharacterPart",
-									"replace": "1111111111111111111111111111",
-									"Researcher": "string"
 								}
 							]
 						},
@@ -1192,36 +764,6 @@
 									"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet/Meshes/Parts/F_MED_Buffet_FaceAcc_AnimBP.F_MED_Buffet_FaceAcc_AnimBP_C",
 									"Researcher": "string",
 									"log": "FaceAcc AnimBP"
-								},
-								{
-									"search": "AdditionalData",
-									"replace": "11111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "BoolProperty",
-									"replace": "111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "ByteProperty",
-									"replace": "111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "GenderPermitted",
-									"replace": "111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "Default__CustomCharacterFaceData",
-									"replace": "11111111111111111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "Default__CustomCharacterPart",
-									"replace": "1111111111111111111111111111",
-									"Researcher": "string"
 								}
 							]
 						}
@@ -1248,41 +790,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Forest_Queen/Meshes/F_MED_Forest_Queen_AnimBp.F_MED_Forest_Queen_AnimBp_C",
 							"Researcher": "string",
 							"log": "Body 2/2"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ArrayProperty",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BoolProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "CharacterPartType",
-							"replace": "11111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "$Default__CustomCharacterBodyPartData",
-							"replace": "1111111111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				},
@@ -1300,51 +807,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Forest_Queen/Meshes/Parts/F_MED_Forest_Queen_FaceAcc_AnimBp.F_MED_Forest_Queen_FaceAcc_AnimBp_C",
 							"Researcher": "string",
 							"log": "Hair 2/2"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BoolProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "CustomCharacterPart",
-							"replace": "1111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterFaceData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ObjectProperty",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "SoftObjectProperty",
-							"replace": "111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				},
@@ -1356,36 +818,6 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Forest_Queen/Materials/MI_F_MED_Forest_Queen_Head.MI_F_MED_Forest_Queen_Head",
 							"Researcher": "string",
 							"log": "Head"
-						},
-						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterHeadData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
 						}
 					]
 				}
