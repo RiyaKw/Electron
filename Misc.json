@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "name": "Pump_to_OG_Pump",
+            "icon": "https://media.discordapp.net/attachments/824438219176280074/901808089777455174/fortnite-pump-gun-rkn.png",
+            "swapicon": "https://media.discordapp.net/attachments/824438219176280074/901808174972170290/296-2963456_pump-shotgun-fortnite-chapter-2-removebg-preview.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03",
+                    "swaps": [
+                        {
+                            "search": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Pump_Shotgun_Mark_II_Base.SK_Pump_Shotgun_Mark_II_Base",
+                            "replace": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Pump_Shotgun_Mark_I_Base.SK_Pump_Shotgun_Mark_I_Base",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
