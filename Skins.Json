@@ -1190,6 +1190,36 @@
 			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_DarkVikingFire.CP_M_MED_DarkVikingFire"
 		},
 		{
+			"name": "cp_ScubaCrystal",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_131_Athena_Commando_F_JurassicArchaeologySummer/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_JurassicArchaeology_Summer.CP_Body_Commando_F_JurassicArchaeology_Summer",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_JurassicArchaeologySummer.CP_F_MED_JurassicArchaeologySummer"
+		},
+		{
+			"name": "cp_MidsummerMidas",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_129_Athena_Commando_M_CatBurglarSummer/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_CatBurglarSummer_Black.CP_Athena_Body_M_CatBurglarSummer_Black",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_CatBurglarSummer.CP_Athena_Head_M_CatBurglarSummer"
+		},
+		{
+			"name": "cp_BeachBrutus",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_130_Athena_Commando_M_HenchmanSummer/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_L_HenchmanSummer.CP_Athena_Body_L_HenchmanSummer",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_L_HenchmanSummer.CP_Athena_Head_L_HenchmanSummer"
+		},
+		{
+			"name": "cp_BeachJules",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_127_Athena_Commando_F_MechanicalEngineerSummer/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_MechanicalEngineerSummer.CP_Body_Commando_F_MechanicalEngineerSummer",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_MechanicalEngineerSummer_FaceAcc.CP_F_MED_MechanicalEngineerSummer_FaceAcc"
+		},
+		{
+			"name": "cp_RickSanchez",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_112_Athena_Commando_M_Ruckus/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_Ruckus.CP_Athena_Body_M_Ruckus",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_Ruckus.CP_M_MED_Ruckus"
+		},
+		{
 			"name": "Slingshot_to_Rainbow_Racer",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_552_Athena_Commando_F_TaxiUpgrade/smallicon.png",
