@@ -1166,6 +1166,30 @@
 			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_FNCSGreen.CP_Head_F_FNCSGreen"
 		},
 		{
+			"name": "cp_KernalPoppy",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_254_Athena_Commando_M_ButterJack/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_ButterJack.CP_Athena_Body_M_ButterJack",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_ButterJack_FaceAcc.CP_M_MED_ButterJack_FaceAcc"
+		},
+		{
+			"name": "cp_IncineratorKuno",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_134_Athena_Commando_F_BandageNinjaFire/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_BandageNinjaRepaint.CP_Body_Commando_F_BandageNinjaRepaint",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_BandageNinjaFire.CP_F_MED_BandageNinjaFire"
+		},
+		{
+			"name": "cp_RoastLord",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_132_Athena_Commando_M_ScavengerFire/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_M_ScavengerFire.CP_Body_Commando_M_ScavengerFire",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_ScavengerFire.CP_M_MED_ScavengerFire"
+		},
+		{
+			"name": "cp_MoltenRagnarok",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_133_Athena_Commando_M_DarkVikingFire/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_DarkVikingFire.CP_Athena_Body_M_DarkVikingFire",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_DarkVikingFire.CP_M_MED_DarkVikingFire"
+		},
+		{
 			"name": "Slingshot_to_Rainbow_Racer",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_552_Athena_Commando_F_TaxiUpgrade/smallicon.png",
