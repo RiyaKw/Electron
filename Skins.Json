@@ -1220,6 +1220,12 @@
 			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_Ruckus.CP_M_MED_Ruckus"
 		},
 		{
+			"name": "cp_NeymarJR",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_078_Athena_Commando_M_Bicycle/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_Bicycle.CP_Athena_Body_M_Bicycle",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_Bicycle.CP_Athena_Head_M_Bicycle"
+		},
+		{
 			"name": "Slingshot_to_Rainbow_Racer",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_552_Athena_Commando_F_TaxiUpgrade/smallicon.png",
