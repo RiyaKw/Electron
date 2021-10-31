@@ -1196,6 +1196,48 @@
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Head1_ATH_Ponytail.F_Med_Head1_ATH_Ponytail"
 		},
 		{
+			"name": "cp_ReconSpecialist",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_024_Athena_Commando_F/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_024_Athena_Body.CP_024_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Head1_ATH_Ponytail.F_Med_Head1_ATH_Ponytail"
+		},
+		{
+			"name": "cp_ReconSpecialist",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_025_Athena_Commando_M/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_025_Athena_Body.CP_025_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/M_Med_Soldier_Head_01_ATH.M_Med_Soldier_Head_01_ATH"
+		},
+		{
+			"name": "cp_Desperado",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_026_Athena_Commando_M/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_026_Athena_Body.CP_026_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/M_MED_HIS_Sparks_Head_01_ATH.M_MED_HIS_Sparks_Head_01_ATH"
+		},
+		{
+			"name": "cp_SurvivalSpecialist",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_027_Athena_Commando_F/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_027_Athena_Body.CP_027_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_MED_ASN_Sarah_Head_01_ATH.F_MED_ASN_Sarah_Head_01_ATH"
+		},
+		{
+			"name": "cp_RenegadeRaider",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_028_Athena_Body.CP_028_Athena_Body",
+			"Head": "/Game/Characters/CharacterParts/Hats/Hat_F_Commando_08_V01.Hat_F_Commando_08_V0"
+		},
+		{
+			"name": "cp_GhoulTrooper",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_029_Athena_Commando_F_Halloween/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_029_Athena_Body_Halloween.CP_029_Athena_Body_Halloween",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_HIS_Ramirez_Head_HW01_ATH.F_Med_HIS_Ramirez_Head_HW01_ATH"
+		},
+		{
+			"name": "cp_SkullTrooper",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_030_Athena_Commando_M_Halloween/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_030_Athena_Body_Halloween.CP_030_Athena_Body_Halloween",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/M_Med_Soldier_Head_01_HW01_ATH.M_Med_Soldier_Head_01_HW01_ATH"
+		},
+		{
 			"name": "cp_MintBomber",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_155_Athena_Commando_F_BrightBomberMint/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_BrightBomberMint.CP_Body_Commando_F_BrightBomberMint",
