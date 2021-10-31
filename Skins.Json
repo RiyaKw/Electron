@@ -1370,97 +1370,97 @@
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Head1_ATH_Ponytail.F_Med_Head1_ATH_Ponytail"
 		},
 		{
-			"name": "AlpineAce",
+			"name": "cp_AlpineAce",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_053_Athena_Commando_M_SkiDude/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR.M_Med_Soldier_01_TV38_BR",
 			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14.Hat_M_Commando_14"
 		},
 		{
-			"name": "AlpineAceUSA",
+			"name": "cp_AlpineAceUSA",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_054_Athena_Commando_M_SkiDude_USA/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_USA.M_Med_Soldier_01_TV38_BR_USA",
 			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_USA.Hat_M_Commando_14_USA"
 		},
 		{
-			"name": "AlpineAceCAN",
+			"name": "cp_AlpineAceCAN",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_055_Athena_Commando_M_SkiDude_CAN/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_CAN.M_Med_Soldier_01_TV38_BR_CAN",
 			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_CAN.Hat_M_Commando_14_CAN"
 		},
 		{
-			"name": "AlpineAceGBR",
+			"name": "cp_AlpineAceGBR",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_056_Athena_Commando_M_SkiDude_GBR/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_GBR.M_Med_Soldier_01_TV38_BR_GBR",
 			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_GBR.Hat_M_Commando_14_GBR"
 		},
 		{
-			"name": "AlpineAceFRA",
+			"name": "cp_AlpineAceFRA",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_057_Athena_Commando_M_SkiDude_FRA/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_FRA.M_Med_Soldier_01_TV38_BR_FRA",
 			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_FRA.Hat_M_Commando_14_FRA"
 		},
 		{
-			"name": "AlpineAceGER",
+			"name": "cp_AlpineAceGER",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_058_Athena_Commando_M_SkiDude_GER/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_GER.M_Med_Soldier_01_TV38_BR_GER",
 			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_GER.Hat_M_Commando_14_GER"
 		},
 		{
-			"name": "AlpineAceCHN",
+			"name": "cp_AlpineAceCHN",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_059_Athena_Commando_M_SkiDude_CHN/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_CHN.M_Med_Soldier_01_TV38_BR_CHN",
 			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_CHN.Hat_M_Commando_14_CHN"
 		},
 		{
-			"name": "AlpineAceKOR",
+			"name": "cp_AlpineAceKOR",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_060_Athena_Commando_M_SkiDude_KOR/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_KOR.M_Med_Soldier_01_TV38_BR_KOR",
 			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_KOR.Hat_M_Commando_14_KOR"
 		},
 		{
-			"name": "MogulMaster",
+			"name": "cp_MogulMaster",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_061_Athena_Commando_F_SkiGirl/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Female/Medium/Bodies/F_Med_Soldier_BR42.F_Med_Soldier_BR42",
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Soldier_SkiMask_01_ATH.F_Med_Soldier_SkiMask_01_ATH"
 		},
 		{
-			"name": "MogulMasterUSA",
+			"name": "cp_MogulMasterUSA",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_062_Athena_Commando_F_SkiGirl_USA/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Female/Medium/Bodies/F_Med_Soldier_BR42_USA.F_Med_Soldier_BR42_USA",
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Soldier_SkiMask_01_ATH_USA.F_Med_Soldier_SkiMask_01_ATH_USA"
 		},
 		{
-			"name": "MogulMasterCAN",
+			"name": "cp_MogulMasterCAN",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_063_Athena_Commando_F_SkiGirl_CAN/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Female/Medium/Bodies/F_Med_Soldier_BR42_CAN.F_Med_Soldier_BR42_CAN",
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Soldier_SkiMask_01_ATH_CAN.F_Med_Soldier_SkiMask_01_ATH_CAN"
 		},
 		{
-			"name": "MogulMasterGBR",
+			"name": "cp_MogulMasterGBR",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_064_Athena_Commando_F_SkiGirl_GBR/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Female/Medium/Bodies/F_Med_Soldier_BR42_GBR.F_Med_Soldier_BR42_GBR",
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Soldier_SkiMask_01_ATH_GBR.F_Med_Soldier_SkiMask_01_ATH_GBR"
 		},
 		{
-			"name": "MogulMasterFRA",
+			"name": "cp_MogulMasterFRA",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_065_Athena_Commando_F_SkiGirl_FRA/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Female/Medium/Bodies/F_Med_Soldier_BR42_FRA.F_Med_Soldier_BR42_FRA",
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Soldier_SkiMask_01_ATH_FRA.F_Med_Soldier_SkiMask_01_ATH_FRA"
 		},
 		{
-			"name": "MogulMasterGER",
+			"name": "cp_MogulMasterGER",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_066_Athena_Commando_F_SkiGirl_GER/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Female/Medium/Bodies/F_Med_Soldier_BR42_GER.F_Med_Soldier_BR42_GER",
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Soldier_SkiMask_01_ATH_GER.F_Med_Soldier_SkiMask_01_ATH_GER"
 		},
 		{
-			"name": "MogulMasterCHN",
+			"name": "cp_MogulMasterCHN",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_067_Athena_Commando_F_SkiGirl_CHN/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Female/Medium/Bodies/F_Med_Soldier_BR42_CHN.F_Med_Soldier_BR42_CHN",
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Soldier_SkiMask_01_ATH_CHN.F_Med_Soldier_SkiMask_01_ATH_CHN"
 		},
 		{
-			"name": "MogulMasterKOR",
+			"name": "cp_MogulMasterKOR",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_068_Athena_Commando_F_SkiGirl_KOR/smallicon.png",
 			"Body": "/Game/Characters/CharacterParts/Female/Medium/Bodies/F_Med_Soldier_BR42_KOR.F_Med_Soldier_BR42_KOR",
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Soldier_SkiMask_01_ATH_KOR.F_Med_Soldier_SkiMask_01_ATH_KOR"
