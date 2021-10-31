@@ -1226,6 +1226,18 @@
 			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_Bicycle.CP_Athena_Head_M_Bicycle"
 		},
 		{
+			"name": "cp_Celeste",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_117_Athena_Commando_F_Rockstar/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_Rockstar.CP_Body_Commando_F_Rockstar",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_Rockstar_FaceAcc.CP_F_MED_Rockstar_FaceAcc"
+		},
+		{
+			"name": "cp_DevSkin",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_Creative_Mannequin_M_Default/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Mannequin_Body.CP_Mannequin_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/Dev_TestAsset_Head_01.Dev_TestAsset_Head_01"
+		},
+		{
 			"name": "Slingshot_to_Rainbow_Racer",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_552_Athena_Commando_F_TaxiUpgrade/smallicon.png",
