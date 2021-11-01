@@ -1508,6 +1508,24 @@
 			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Space.CP_Hat_M_Commando_Space"
 		},
 		{
+			"name": "cp_Moonwalker",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_081_Athena_Commando_F_Space/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_M_Space.CP_Body_Commando_M_Space",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Space.CP_Hat_M_Commando_Space"
+		},
+		{
+			"name": "cp_RustLord",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_082_Athena_Commando_M_Scavenger/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_M_Scavenger.CP_Body_Commando_M_Scavenger",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Scavenger.CP_Hat_M_Commando_Scavenger"
+		},
+		{
+			"name": "cp_EliteAgent",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_083_Athena_Commando_F_Tactical/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_Tactical.CP_Body_Commando_F_Tactical",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_Tactical.CP_Hat_F_Commando_Tactical"
+		},
+		{
 			"name": "cp_MintBomber",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_155_Athena_Commando_F_BrightBomberMint/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_BrightBomberMint.CP_Body_Commando_F_BrightBomberMint",
