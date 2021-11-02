@@ -1526,6 +1526,180 @@
 			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_Tactical.CP_Hat_F_Commando_Tactical"
 		},
 		{
+			"name": "cp_TheReaper",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_084_Athena_Commando_M_Assassin/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_M_Assassin.CP_Body_Commando_M_Assassin",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Head_Med_Soldier_M_Assassin.CP_Head_Med_Soldier_M_Assassin"
+		},
+		{
+			"name": "cp_SubCommander",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_085_Athena_Commando_M_Twitch/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_M_Twitch.CP_Body_Commando_M_Twitch",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/M_Med_Soldier_Head_01.M_Med_Soldier_Head_01"
+		},
+		{
+			"name": "cp_ScarletDefender",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_087_Athena_Commando_F_RedSilk/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RedSilk.CP_Body_Commando_F_RedSilk",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01"
+		},
+		{
+			"name": "cp_DarkVoyager",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_088_Athena_Commando_M_SpaceBlack/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_M_SpaceBlack.CP_Body_Commando_M_SpaceBlack",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_SpaceBlack.CP_Hat_M_Commando_SpaceBlack"
+		},
+		{
+			"name": "cp_Havoc",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_089_Athena_Commando_M_RetroGrey/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_089_Athena_Body_RetroGrey.CP_089_Athena_Body_RetroGrey",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_RetroGrey.CP_Hat_M_Commando_RetroGrey"
+		},
+		{
+			"name": "cp_RougeAgent",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_090_Athena_Commando_M_Tactical/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_090_Athena_Body_Tactical.CP_090_Athena_Body_Tactical",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Tactical.CP_Hat_M_Commando_Tactical"
+		},
+		{
+			"name": "cp_RadiantStriker",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_091_Athena_Commando_M_RedShirt/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_091_Athena_Body_M_Redshirt.CP_091_Athena_Body_M_Redshirt",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/M_Med_BLK_Sydney_Head_01.M_Med_BLK_Sydney_Head_01"
+		},
+		{
+			"name": "cp_BrilliantStriker",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_092_Athena_Commando_F_RedShirt/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_092_Body_F_RedShirt.CP_092_Body_F_RedShirt",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/F_MED_ASN_Kumiko_Head_01.F_MED_ASN_Kumiko_Head_01"
+		},
+		{
+			"name": "cp_Rex",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_093_Athena_Commando_M_Dinosaur/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_093_Athena_Body_M_Dinosaur.CP_093_Athena_Body_M_Dinosaur",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Dinosaur.CP_Hat_M_Commando_Dinosaur"
+		},
+		{
+			"name": "cp_BurnOut",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_094_Athena_Commando_M_Rider/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_094_Athena_Body_M_Rider.CP_094_Athena_Body_M_Rider",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Rider.CP_Hat_M_Commando_Rider"
+		},
+		{
+			"name": "cp_WarPaint",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_095_Athena_Commando_M_Founder/smallicon.png",
+			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV13.M_Med_Soldier_01_TV13",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/M_Med_Soldier_Head_TV13.M_Med_Soldier_Head_TV13"
+		},
+		{
+			"name": "cp_RoseTeamLeader",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_096_Athena_Commando_F_Founder/smallicon.png",
+			"Body": "/Game/Characters/CharacterParts/Female/Medium/Bodies/F_Med_Soldier_TV11.F_Med_Soldier_TV11",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/F_Med_Head_01_TV11.F_Med_Head_01_TV11"
+		},
+		{
+			"name": "cp_PowerChord",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_097_Athena_Commando_F_RockerPunk/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_097_Body_F_RockerPunk.CP_097_Body_F_RockerPunk",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/F_MED_ASN_Kumiko_Head_RockerPunk.F_MED_ASN_Kumiko_Head_RockerPunk"
+		},
+		{
+			"name": "cp_GreenClover",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_098_Athena_Commando_F_StPatty/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_098_Body_F_StPatty.CP_098_Body_F_StPatty",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01.F_MED_CAU_Armstrong_Head_0"
+		},
+		{
+			"name": "cp_HighLandWarrior",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_099_Athena_Commando_F_Scathach/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_099_Body_F_Scathach.CP_099_Body_F_Scathach",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_Scathach.CP_Hat_F_Commando_Scathach"
+		},
+		{
+			"name": "cp_BattleHound",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_100_Athena_Commando_M_CuChulainn/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_100_Athena_Body_M_CuChulainn.CP_100_Athena_Body_M_CuChulainn",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_CuChulainn.CP_Hat_M_Commando_CuChulainn"
+		},
+		{
+			"name": "cp_MidnightOps",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_101_Athena_Commando_M_Stealth/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_101_Athena_Body_M_Stealth.CP_101_Athena_Body_M_Stealth",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/M_Med_Soldier_Head_Stealth.M_Med_Soldier_Head_Stealth"
+		},
+		{
+			"name": "cp_Raven",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_102_Athena_Commando_M_Raven/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_101_Athena_Body_M_Stealth.CP_101_Athena_Body_M_Stealth",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/M_Med_Soldier_Head_Stealth.M_Med_Soldier_Head_Stealth"
+		},
+		{
+			"name": "cp_RabbitRaider",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_103_Athena_Commando_M_Bunny/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_103_Athena_Body_M_Bunny.CP_103_Athena_Body_M_Bunny",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Bunny.CP_Hat_M_Commando_Bunny"
+		},
+		{
+			"name": "cp_BunnyBrawler",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_104_Athena_Commando_F_Bunny/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_104_Body_F_Bunny.CP_104_Body_F_Bunny",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_Bunny.CP_F_MED_Bunny"
+		},
+		{
+			"name": "cp_DarkVanguard",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_105_Athena_Commando_F_SpaceBlack/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_105_Body_F_SpaceBlackFemale.CP_105_Body_F_SpaceBlackFemale",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_SpaceBlackFemale.CP_Hat_F_Commando_SpaceBlackFemale"
+		},
+		{
+			"name": "cp_Whiplash",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_106_Athena_Commando_F_Taxi/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_106_Body_F_Taxi.CP_106_Body_F_Taxi",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_HIS_Ramirez_Taxi.CP_Head_HIS_Ramirez_Taxi"
+		},
+		{
+			"name": "cp_TriceraOps",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_107_Athena_Commando_F_PajamaParty/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_107_Body_F_PajamaParty.CP_107_Body_F_PajamaParty",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_PajamaParty.CP_Hat_F_Commando_PajamaParty"
+		},
+		{
+			"name": "cp_Leviathan",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_108_Athena_Commando_M_Fishhead/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_108_Athena_Body_M_Fishhead.CP_108_Athena_Body_M_Fishhead",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Head_Med_Soldier_M_Fishhead.CP_Head_Med_Soldier_M_Fishhead"
+		},
+		{
+			"name": "cp_TomatoHead",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_109_Athena_Commando_M_Pizza/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_109_Athena_Body_M_Pizza.CP_109_Athena_Body_M_Pizza",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Pizza.CP_Hat_M_Commando_Pizza"
+		},
+		{
+			"name": "cp_Cipher",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_110_Athena_Commando_F_CircuitBreaker/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_110_Body_F_CircuitBreaker.CP_110_Body_F_CircuitBreaker",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/F_MED_BLK_Red_Head_01.F_MED_BLK_Red_Head_01"
+		},
+		{
+			"name": "cp_SteelSight",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_111_Athena_Commando_F_Robo/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_111_Body_F_Robo.CP_111_Body_F_Robo",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_BLK_Robo.CP_Head_BLK_Robo"
+		},
+		{
+			"name": "cp_BriteGunner",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_112_Athena_Commando_M_Brite/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_112_Athena_Body_M_Brite.CP_112_Athena_Body_M_Brite",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Head_Med_Soldier_M_Brite.CP_Head_Med_Soldier_M_Brite"
+		},
+		{
+			"name": "cp_RoyaleBomber",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_113_Athena_Commando_M_BlueAce/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_113_Athena_Body_M_BlueAce.CP_113_Athena_Body_M_BlueAce",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/M_Med_HIS_Diego_Head_01.M_Med_HIS_Diego_Head_01"
+		},
+		{
 			"name": "cp_MintBomber",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_155_Athena_Commando_F_BrightBomberMint/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_BrightBomberMint.CP_Body_Commando_F_BrightBomberMint",
