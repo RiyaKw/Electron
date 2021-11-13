@@ -1700,6 +1700,12 @@
 			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/M_Med_HIS_Diego_Head_01.M_Med_HIS_Diego_Head_01"
 		},
 		{
+			"name": "cp_TrailBlazer",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_114_Athena_Commando_F_TacticalWoodland/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_114_Body_F_TacticalWoodland.CP_114_Body_F_TacticalWoodland",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_TacticalWoodland.CP_Head_F_TacticalWoodland"
+		},
+		{
 			"name": "cp_MintBomber",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_155_Athena_Commando_F_BrightBomberMint/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_BrightBomberMint.CP_Body_Commando_F_BrightBomberMint",
