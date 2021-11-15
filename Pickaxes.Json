@@ -107,6 +107,54 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Snowy_to_Axe_Of_Champions",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_376_FNCS/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_334_SweaterWeatherMale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_SweaterWeatherMale",
+                    "swaps": [
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/Meshes/Sweater_Weather_Male_Axe.Sweater_Weather_Male_Axe",
+                            "replace": "/Game/Weapons/FORT_Melee/Pickaxe_FNCS/Meshes/SK_Pickaxe_FNCS.SK_Pickaxe_FNCS",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Ready_Athena_Cue.PickAxe_SweaterWeatherMale_Ready_Athena_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/FNCS/PickaxeReady_FNCS.PickaxeReady_FNCS",
+                            "Researcher": "string",
+                            "log": "Equip"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Swing_Athena_Cue.PickAxe_SweaterWeatherMale_Swing_Athena_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/FNCS/PickaxeSwing_FNCS.PickaxeSwing_FNCS",
+                            "Researcher": "string",
+                            "log": "Swing"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Impact_Player_Athena_Cue.PickAxe_SweaterWeatherMale_Impact_Player_Athena_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/FNCS/PickaxeImpactEnemy_FNCS.PickaxeImpactEnemy_FNCS",
+                            "Researcher": "string",
+                            "log": "Impact"
+                        },
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/FX/P_Pickaxe_SweaterWeatherMale_Idle.P_Pickaxe_SweaterWeatherMale_Idle",
+                            "replace": "/Game/Weapons/FORT_Melee/Pickaxe_Cat_Burglar_Male/FX/P_FNCS_Pickaxe_Idle.P_FNCS_Pickaxe_Idle",
+                            "Researcher": "string",
+                            "log": "Idlefx"
+                        },
+                        {
+                            "search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-SweaterWeatherPickaxe.T-Icon-Pickaxes-SweaterWeatherPickaxe",
+                            "replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-FNCSPickaxe.T-Icon-Pickaxes-FNCSPickaxe",
+                            "Researcher": "string",
+                            "log": "Icon"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
