@@ -35,6 +35,78 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Snowy_to_ACDC",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_013_Teslacoil/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_334_SweaterWeatherMale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_SweaterWeatherMale",
+                    "swaps": [
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/Meshes/Sweater_Weather_Male_Axe.Sweater_Weather_Male_Axe",
+                            "replace": "/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_12.SK_Pickaxe_12",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Ready_Athena_Cue.PickAxe_SweaterWeatherMale_Ready_Athena_Cue",
+                            "replace": "/Game/Sounds/Fort_Weapons/PickAxe/PickAxe_TeslaCoil_Ready_Cue.PickAxe_TeslaCoil_Ready_Cue",
+                            "Researcher": "string",
+                            "log": "Equip"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Swing_Athena_Cue.PickAxe_SweaterWeatherMale_Swing_Athena_Cue",
+                            "replace": "/Game/Sounds/Fort_Weapons/PickAxe/PickAxe_TeslaCoil_Swing_Cue.PickAxe_TeslaCoil_Swing_Cue",
+                            "Researcher": "string",
+                            "log": "Swing"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Impact_Player_Athena_Cue.PickAxe_SweaterWeatherMale_Impact_Player_Athena_Cue",
+                            "replace": "/Game/Sounds/Fort_Impact_Sounds/Demolition/Defaults/Demo_Rock_Impact_MLTI_Cue.Demo_Rock_Impact_MLTI_Cue",
+                            "Researcher": "string",
+                            "log": "Impact"
+                        },
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/FX/P_Pickaxe_SweaterWeatherMale_Swing.P_Pickaxe_SweaterWeatherMale_Swing",
+                            "replace": "/Game/Weapons/FORT_Melee/Pickaxe_Dragon_Ninja/FX/P_Pickaxe_Dragon_Ninja_Swing.P_Pickaxe_Dragon_Ninja_Swing",
+                            "Researcher": "string",
+                            "log": "Swingfx"
+                        },
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/FX/P_Pickaxe_SweaterWeather_Impact.P_Pickaxe_SweaterWeather_Impact",
+                            "replace": "/Game/Weapons/FORT_Generic_Effects/Impacts/Default/P_Impact_Default_Electrical_01.P_Impact_Default_Electrical_01",
+                            "Researcher": "string",
+                            "log": "Impactfx"
+                        },
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/FX/P_Pickaxe_SweaterWeatherMale_Idle.P_Pickaxe_SweaterWeatherMale_Idle",
+                            "replace": "/Game/Weapons/FORT_Melee/Effects/Electrical_Pickaxe/P_Electrical_PickAxe_Head_01.P_Electrical_PickAxe_Head_01",
+                            "Researcher": "string",
+                            "log": "Idlefx"
+                        },
+                        {
+                            "search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-SweaterWeatherPickaxe.T-Icon-Pickaxes-SweaterWeatherPickaxe",
+                            "replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-SK-Pickaxe-12.T-Icon-Pickaxes-SK-Pickaxe-12",
+                            "Researcher": "string",
+                            "log": "Icon"
+                        },
+                        {
+                            "search": "FX_Idle_Start",
+                            "replace": "FX_TeslaHead",
+                            "Researcher": "string",
+                            "log": "FX"
+                        },
+                        {
+                            "search": "EFortRarity::Rare",
+                            "replace": "EFortRarity::Epic",
+                            "Researcher": "string",
+                            "log": "Rarity"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
