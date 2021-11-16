@@ -220,6 +220,95 @@
 					]
 				}
 			]
+		},
+        {
+			"name": "Driver_Options",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_190_GolfClub/smallicon.png",
+			"Options": [
+				{
+					"name": "Default_to_Driver",
+					"icon": "https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/smallicon.png",
+					"assets": [
+						{
+							"parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_Athena_C_T01",
+							"swaps": [
+								{
+									"search": "/Game/Weapons/FORT_Melee/Pickaxe_Default_MarkII/Meshes/SK_Pickaxe_Default_Mark_II.SK_Pickaxe_Default_Mark_II",
+									"replace": "/Game/Weapons/FORT_Melee/Pickaxe_GolfClub/Meshs/Golf_Club.Golf_Club",
+									"Researcher": "string",
+									"log": "Mesh"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Balloon_Axe_to_Driver",
+					"icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_073_Balloon/smallicon.png",
+					"assets": [
+						{
+							"parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_Balloon",
+							"swaps": [
+								{
+									"search": "/Game/Weapons/FORT_Melee/Pickaxe_Balloon/Meshes/SK_Pickaxe_Balloon.SK_Pickaxe_Balloon",
+									"replace": "/Game/Weapons/FORT_Melee/Pickaxe_GolfClub/Meshs/Golf_Club.Golf_Club",
+									"Researcher": "string",
+									"log": "Mesh"
+								},
+                                {
+									"search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-SK-Pickaxe-Balloon-Transparent.T-Icon-Pickaxes-SK-Pickaxe-Balloon-Transparent",
+									"replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-GolfClub-Pickaxe.T-Icon-Pickaxes-GolfClub-Pickaxe",
+									"Researcher": "string",
+									"log": "Icon"
+								}
+							]
+						}
+						
+					]
+				},
+                {
+					"name": "Specialist_Pickaxe_to_Driver",
+					"icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_360_DesertOpsCamoFemale/smallicon.png",
+					"assets": [
+						{
+							"parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_DesertOpsCamoFemale",
+							"swaps": [
+								{
+									"search": "/Game/Weapons/FORT_Melee/Pickaxe_Desert_Ops_Camo_Female/Meshes/Desert_Ops_Camo_Female_Axe.Desert_Ops_Camo_Female_Axe",
+									"replace": "/Game/Weapons/FORT_Melee/Pickaxe_GolfClub/Meshs/Golf_Club.Golf_Club",
+									"Researcher": "string",
+									"log": "Mesh"
+								},
+                                {
+									"search": "/Game/Athena/Sounds/Weapons/PickAxes/DesertOpsCamoFemale/PickAxe_DesertOpsCamoFemale_Swing_Cue.PickAxe_DesertOpsCamoFemale_Swing_Cue",
+									"replace": "/Game/Athena/Sounds/Weapons/PickAxes/GolfClub/PickAxe_GolfClub_Swing_Athena_Cue.PickAxe_GolfClub_Swing_Athena_Cue",
+									"Researcher": "string",
+									"log": "Swing"
+								},
+                                {
+									"search": "/Game/Athena/Sounds/Weapons/PickAxes/DesertOpsCamoFemale/PickAxe_DesertOpsCamoFemale_Impact_Player_Cue.PickAxe_DesertOpsCamoFemale_Impact_Player_Cue",
+									"replace": "/Game/Athena/Sounds/Weapons/PickAxes/GolfClub/PickAxe_GolfClub_Impact_Player_Athena_Cue.PickAxe_GolfClub_Impact_Player_Athena_Cue",
+									"Researcher": "string",
+									"log": "Impact"
+								},
+                                {
+									"search": "/Game/Athena/Sounds/Weapons/PickAxes/DesertOpsCamoFemale/PickAxe_DesertOpsCamoFemale_Ready_Cue.PickAxe_DesertOpsCamoFemale_Ready_Cue",
+									"replace": "/Game/Athena/Sounds/Weapons/PickAxes/GolfClub/PickAxe_GolfClub_Ready_Athena_Cue.PickAxe_GolfClub_Ready_Athena_Cue",
+									"Researcher": "string",
+									"log": "Equip"
+								},
+                                {
+									"search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-DesertOpsFPickaxe.T-Icon-Pickaxes-DesertOpsFPickaxe",
+									"replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-GolfClub-Pickaxe.T-Icon-Pickaxes-GolfClub-Pickaxe",
+									"Researcher": "string",
+									"log": "Icon"
+								}
+							]
+						}
+						
+					]
+				}
+			]
 		}
     ]
 }
