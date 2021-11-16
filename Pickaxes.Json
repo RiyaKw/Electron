@@ -155,6 +155,71 @@
                     ]
                 }
             ]
-        }
+        },
+        {
+			"name": "CrowBar_Options",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_092_Bling/smallicon.png",
+			"Options": [
+				{
+					"name": "Default_to_Crowbar",
+					"icon": "https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/smallicon.png",
+					"assets": [
+						{
+							"parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_Athena_C_T01",
+							"swaps": [
+								{
+									"search": "/Game/Weapons/FORT_Melee/Pickaxe_Default_MarkII/Meshes/SK_Pickaxe_Default_Mark_II.SK_Pickaxe_Default_Mark_II",
+									"replace": "/Game/Weapons/FORT_Melee/Pickaxe_Heist/Models/SK_Pickaxe_Heist.SK_Pickaxe_Heist",
+									"Researcher": "string",
+									"log": "Mesh"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Balloon_Axe_to_CrowBar",
+					"icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_073_Balloon/smallicon.png",
+					"assets": [
+						{
+							"parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_Balloon",
+							"swaps": [
+								{
+									"search": "/Game/Weapons/FORT_Melee/Pickaxe_Balloon/Meshes/SK_Pickaxe_Balloon.SK_Pickaxe_Balloon",
+									"replace": "/Game/Weapons/FORT_Melee/Pickaxe_Heist/Models/SK_Pickaxe_Heist.SK_Pickaxe_Heist",
+									"Researcher": "string",
+									"log": "Mesh"
+								},
+                                {
+									"search": "/Game/Athena/Sounds/Weapons/PickAxes/Balloon/Pickaxe_Balloon_Ready_Cue.Pickaxe_Balloon_Ready_Cue",
+									"replace": "/Game/Athena/Sounds/Weapons/PickAxe_Ready_Athena_Cue.PickAxe_Ready_Athena_Cue",
+									"Researcher": "string",
+									"log": "Equip"
+								},
+                                {
+									"search": "/Game/Athena/Sounds/Weapons/PickAxes/Balloon/Pickaxe_Balloon_Swing_Cue.Pickaxe_Balloon_Swing_Cue",
+									"replace": "/Game/Athena/Sounds/Weapons/PickAxes/Bling/PA_Bling_Swing.PA_Bling_Swing",
+									"Researcher": "string",
+									"log": "Swing"
+								},
+                                {
+									"search": "/Game/Athena/Sounds/Weapons/PickAxes/Balloon/Pickaxe_Balloon_Impact_Cue.Pickaxe_Balloon_Impact_Cue",
+									"replace": "/Game/Athena/Sounds/Weapons/PickAxes/Bling/PA_Bling_Impact.PA_Bling_Impact",
+									"Researcher": "string",
+									"log": "Impact"
+								},
+                                {
+									"search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-SK-Pickaxe-Balloon-Transparent.T-Icon-Pickaxes-SK-Pickaxe-Balloon-Transparent",
+									"replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-SK-Pickaxe-Bling.T-Icon-Pickaxes-SK-Pickaxe-Bling",
+									"Researcher": "string",
+									"log": "Icon"
+								}
+							]
+						}
+						
+					]
+				}
+			]
+		}
     ]
 }
