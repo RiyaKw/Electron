@@ -8319,6 +8319,30 @@
 			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_WinterGhoul.CP_M_MED_WinterGhoul"
 		},
 		{
+			"name": "cp_Naruto",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_261_Athena_Commando_M_Headband/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_Headband.CP_Athena_Body_M_Headband",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_Headband_FaceAcc.CP_M_MED_Headband_FaceAcc"
+		},
+		{
+			"name": "cp_Kakashi",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_262_Athena_Commando_M_HeadbandK/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_HeadbandK.CP_Athena_Body_M_HeadbandK",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_HeadbandK_FaceAcc.CP_M_MED_HeadbandK_FaceAcc"
+		},
+		{
+			"name": "cp_Sasuke",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_263_Athena_Commando_M_HeadbandS/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_HeadbandS.CP_Athena_Body_M_HeadbandS",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_HeadbandS_FaceAcc.CP_M_MED_HeadbandS_FaceAcc"
+		},
+		{
+			"name": "cp_Sakura",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_264_Athena_Commando_F_HeadbandS/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_HeadbandS.CP_Athena_Body_F_HeadbandS",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_HeadbandS_FaceAcc.CP_F_MED_HeadbandS_FaceAcc"
+		},
+		{
 			"name": "Slingshot_to_Rainbow_Racer",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_552_Athena_Commando_F_TaxiUpgrade/smallicon.png",
