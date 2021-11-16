@@ -309,6 +309,43 @@
 					]
 				}
 			]
-		}
+		},
+        {
+            "name": "Angler_Axe_to_Dual_Raiders_Revenge",
+            "icon": "https://media.discordapp.net/attachments/824438219176280074/910302051781730304/Untitled.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_292_TacticalFisherman1H/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_TacticalFisherman1H",
+                    "swaps": [
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_Tactical_Fisherman_1h/Meshes/Tactical_Fisherman_1h.Tactical_Fisherman_1h",
+                            "replace": "/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_PostApocalyptic.SK_Pickaxe_PostApocalyptic",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/TacticalFisherman/PickAxe_TacticalFisherman_Equip_Cue.PickAxe_TacticalFisherman_Equip_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Lockjaw_Swing_Athena_Cue.PickAxe_Lockjaw_Swing_Athena_Cue",
+                            "Researcher": "string",
+                            "log": "Equip"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/TacticalFisherman/PickAxe_TacticalFisherman_Swing_Cue.PickAxe_TacticalFisherman_Swing_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Lockjaw_Swing_Athena_Cue.PickAxe_Lockjaw_Swing_Athena_Cue",
+                            "Researcher": "string",
+                            "log": "Swing"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/TacticalFisherman/PickAxe_TacticalFisherman_EnemyImpact_Cue.PickAxe_TacticalFisherman_EnemyImpact_Cue",
+                            "replace": "/Game/Sounds/Fort_Impact_Sounds/Flesh/Player_Impact_PA_LockJaw_Cue.Player_Impact_PA_LockJaw_Cue",
+                            "Researcher": "string",
+                            "log": "Impact"
+                        }
+
+                    ]
+                }
+            ]
+        }
     ]
 }
