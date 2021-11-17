@@ -485,7 +485,14 @@
 						{
 							"search": "/Game/Accessories/Hats/Mesh/Female_Outlander_06.Female_Outlander_06",
 							"replace": "/Game/Accessories/Hats/Mesh/Female_Commando_06.Female_Commando_06",
-							"Researcher": "string"
+							"Researcher": "string",
+							"log": "Hat"
+						},
+						{
+							"search": "/Game/Accessories/Hats/Materials/Hat_F_StreetRacerBlack.Hat_F_StreetRacerBlack",
+							"replace": "/Game/11111111111111111111111111111111111111111111111111111111111111111111111",
+							"Researcher": "string",
+							"log": "Hat Material"
 						},
 						{
 							"search": "Default__CustomCharacterPart",
