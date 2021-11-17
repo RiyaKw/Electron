@@ -82,6 +82,34 @@
 					]
 				},
 				{
+					"name": "GingerBread_Raider_to_Renegade_Raider",
+					"icon": "https://fortnite-api.com/images/cosmetics/br/CID_970_Athena_Commando_F_RenegadeRaiderHoliday/smallicon.png",
+					"assets": [
+						{
+							"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderHoliday",
+							"swaps": [
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_Body.M_F_Renegade_Raider_Holiday_Body",
+									"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20",
+									"Researcher": "string",
+									"log": "Body"
+								}
+							]
+						},
+						{
+							"parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderHoliday",
+							"swaps": [
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_FaceAcc.M_F_Renegade_Raider_Holiday_FaceAcc",
+									"replace": "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01",
+									"Researcher": "string",
+									"log": "Hat Material"
+								}
+							]
+						}
+					]
+				},
+				{
 					"name": "Redline_to_Renegade_Raider",
 					"icon": "https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/smallicon.png",
 					"assets": [
