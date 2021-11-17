@@ -346,6 +346,43 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Pop_Axe_to_Harley_Hitter",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_363_LollipopTricksterFemale/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_343_HoodieBanditFemale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_HoodieBanditFemale",
+                    "swaps": [
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_Hoodie_Bandit_Female/Demo/SK_Pickaxe_Hoodie_Bandit_Female_Demo.SK_Pickaxe_Hoodie_Bandit_Female_Demo",
+                            "replace": "/Game/Weapons/FORT_Melee/Pickaxe_Lollipop_Trickster_Female/Meshes/Lollipop_Trickster_Female.Lollipop_Trickster_Female",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/HoodieBanditFemale/PickAxe_HoodieBanditFemale_Equip_Cue.PickAxe_HoodieBanditFemale_Equip_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/Lollipop_Trickster/PickAxe_Lollipop_Trickster_Ready_Cue.PickAxe_Lollipop_Trickster_Ready_Cue",
+                            "Researcher": "string",
+                            "log": "Equip"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/HoodieBanditFemale/PickAxe_HoodieBanditFemale_Swing_Cue.PickAxe_HoodieBanditFemale_Swing_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/Lollipop_Trickster/PickAxe_Lollipop_Trickster_Swing_Cue.PickAxe_Lollipop_Trickster_Swing_Cue",
+                            "Researcher": "string",
+                            "log": "Swing"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/HoodieBanditFemale/PickAxe_HoodieBanditFemale_EnemyImpact_Cue.PickAxe_HoodieBanditFemale_EnemyImpact_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/Lollipop_Trickster/PickAxe_Lollipop_Trickster_Impact_Cue.PickAxe_Lollipop_Trickster_Impact_Cue",
+                            "Researcher": "string",
+                            "log": "Impact"
+                        }
+
+                    ]
+                }
+            ]
         }
     ]
 }
