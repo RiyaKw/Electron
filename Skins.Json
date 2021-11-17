@@ -430,7 +430,7 @@
 		{
 			"name": "Redline_to_Recon_Expert",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_022_Athena_Commando_F/smallicon.png",
-			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
+			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/smallicon.png",
 			"assets": [
 				{
 					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
@@ -485,6 +485,26 @@
 						{
 							"search": "/Game/Accessories/Hats/Mesh/Female_Outlander_06.Female_Outlander_06",
 							"replace": "/Game/Accessories/Hats/Mesh/Female_Commando_06.Female_Commando_06",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "CustomCharacterHatData",
+							"replace": "1111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterHatData",
+							"replace": "1111111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ObjectProperty",
+							"replace": "11111111111111",
 							"Researcher": "string"
 						}
 					]
