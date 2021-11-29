@@ -428,6 +428,81 @@
 			]
 		},
 		{
+			"name": "Diamond_Diva_to_Purple_Skull_Trooper",
+			"icon": "https://media.discordapp.net/attachments/844952556811714601/879461318447476736/sgnjl7agwdl51.png",
+			"swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_936_athena_commando_f_raidersilver/smallicon.png",
+			"assets": [
+				{
+					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RaiderSilver",
+					"swaps": [
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+							"replace": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+							"Researcher": "string",
+							"log": "Body Skeleton"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Raider_Pink/Meshes/F_MED_Raider_Pink.F_MED_Raider_Pink",
+							"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dark_Dino/Meshes/M_MED_Dark_Dino.M_MED_Dark_Dino",
+							"Researcher": "string",
+							"log": "Body Mesh"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Raider_Pink/Meshes/F_MED_Raider_Pink_AnimBP.F_MED_Raider_Pink_AnimBP_C",
+							"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dark_Dino/Meshes/M_MED_Dark_Dino_AnimBP.M_MED_Dark_Dino_AnimBP_C",
+							"Researcher": "string",
+							"log": "Body Anim"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Raider_Pink/Skins/Silver/Materials/F_MED_Raider_Silver_Body.F_MED_Raider_Silver_Body",
+							"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/HW01_Red/M_Med_Soldier_04_HW01_Red.M_Med_Soldier_04_HW01_Red",
+							"Researcher": "string",
+							"log": "Body Material"
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow",
+					"swaps": [
+						{
+							"search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
+							"replace": "/Game/111111111111111111111111111111111111111111111111111111111111",
+							"Researcher": "string",
+							"log": "Color"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Hair_01_AuroraGlow.F_MED_Commando_Hair_01_AuroraGlow",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Hair.F_MED_Ramirez_Zombie_Pink_Hair",
+							"Researcher": "string",
+							"log": "Hair"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Head_01_AuroraGlow.F_MED_Commando_Head_01_AuroraGlow",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Head.F_MED_Ramirez_Zombie_Pink_Head",
+							"Researcher": "string",
+							"log": "Head"
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_AuroraGlow",
+					"swaps": [
+						{
+							"search": "/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasses",
+							"replace": "/Game/1111111111111111111111111111111111111111111111111111111111111111111111111",
+							"Researcher": "string",
+							"log": "Glasses Mat"
+						},
+						{
+							"search": "/Game/Accessories/Glasses/Meshes/Female_Commando_Shades.Female_Commando_Shades",
+							"replace": "/Game/Accessories/Hats/Mesh/Ramirez_Glasses.Ramirez_Glasses",
+							"Researcher": "string"
+						}
+					]
+				}
+			]
+		},
+		{
 			"name": "Redline_to_Recon_Expert",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_022_Athena_Commando_F/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/smallicon.png",
