@@ -110,6 +110,45 @@
 					]
 				},
 				{
+					"name": "Default_to_Renegade_Raider",
+					"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_273_Athena_Commando_F_Prime_B/smallicon.png",
+					"assets": [
+						{
+							"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Prime_B",
+							"swaps": [
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Prime/Meshes/F_MED_Prime.F_MED_Prime",
+									"replace": "/Game/Athena/Heroes/Meshes/Bodies/CP_028_Athena_Body.CP_028_Athena_Body",
+									"Researcher": "string",
+									"log": "Body"
+								}
+							]
+						},
+						{
+							"parentasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_Prime_B",
+							"swaps": [
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Meshes/Parts/ASN_Parts/F_MED_Elastic_ASN_3.F_MED_Elastic_ASN_3",
+									"replace": "/Game/Characters/CharacterParts/Hats/Hat_F_Commando_08_V01.Hat_F_Commando_08_V01",
+									"Researcher": "string",
+									"log": "Hat"
+								}
+							]
+						},
+						{
+							"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Athena_Head_F_Prime_B",
+							"swaps": [
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Elastic_Head_01/ASN/Meshes/F_MED_Elastic_ASN_Head_01.F_MED_Elastic_ASN_Head_01",
+									"replace": "/Game/Athena/Heroes/Meshes/Heads/F_MED_ASN_Sarah_Head_02_ATH.F_MED_ASN_Sarah_Head_02_ATH",
+									"Researcher": "string",
+									"log": "Head"
+								}
+							]
+						}
+					]
+				},
+				{
 					"name": "Redline_to_Renegade_Raider",
 					"icon": "https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/smallicon.png",
 					"assets": [
@@ -199,6 +238,7 @@
 				}
 			]
 		},
+		
 		{
 			"name": "Renegade_Raider_Checkered_Options",
 			"icon": "https://media.discordapp.net/attachments/869354120832778260/871683104908140604/8jirwg08snl21.png",
