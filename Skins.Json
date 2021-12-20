@@ -2,8 +2,122 @@
 	"items": [
 		
 		{
-			"name": "Default_to_Renegade_Raider",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/smallicon.png",
+			"name": "Default_to_Recruit_Ramirez",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_001_Athena_Commando_F_Default/smallicon.png",
+			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_A_278_Athena_Commando_F_Prime_G/smallicon.png",
+			"assets": [
+				{
+					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Prime_G",
+					"swaps": [
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string",
+							"log": ""
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Athena_Head_F_Prime_G",
+					"swaps": [
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string",
+							"log": ""
+						},
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string",
+							"log": ""
+						},
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string",
+							"log": ""
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_Prime_F",
+					"swaps": [
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string",
+							"log": ""
+						},
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Default_to_Recruit_Banshee",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_002_Athena_Commando_F_Default/smallicon.png",
+			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_A_278_Athena_Commando_F_Prime_G/smallicon.png",
+			"assets": [
+				{
+					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Prime_G",
+					"swaps": [
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string",
+							"log": ""
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Athena_Head_F_Prime_G",
+					"swaps": [
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string",
+							"log": ""
+						},
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string",
+							"log": ""
+						},
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string",
+							"log": ""
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_Prime_F",
+					"swaps": [
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string",
+							"log": ""
+						},
+						{
+							"search": "",
+							"replace": "",
+							"Researcher": "string"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Default_to_Recruit_HeadHunter",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_003_Athena_Commando_F_Default/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_A_278_Athena_Commando_F_Prime_G/smallicon.png",
 			"assets": [
 				{
